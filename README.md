@@ -1,3 +1,3 @@
 # Guides
 
-* [Transférer ses photos de Google Photos vers une clé USB](google-photos-vers-cle-usb.md)
+* [Télécharger ses photos depuis Google Photos](google-photos-vers-cle-usb.md)
