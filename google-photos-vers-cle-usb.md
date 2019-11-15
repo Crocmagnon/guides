@@ -14,4 +14,4 @@
 
 ## Vidéo de l'interface de Google Photos
 
-<iframe src="https://player.vimeo.com/video/373343691" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/373343691" width="590" height="442" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
