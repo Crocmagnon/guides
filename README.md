@@ -1,3 +1,3 @@
 # Guides
 
-* [Télécharger ses photos depuis Google Photos](download-from-google-photos.md)
+* [Télécharger ses photos depuis Google Photos](guides/download-from-google-photos/index.md)
