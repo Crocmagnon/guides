@@ -1,4 +1,5 @@
 # Télécharger ses photos depuis Google Photos
+[Revenir à l'accueil](/)
 
 ## Matériel nécessaire 
 * Un ordinateur
