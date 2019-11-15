@@ -17,4 +17,4 @@ Une vidéo est disponible en-dessous. Vous pouvez la passer en plein écran pour
 
 ## Vidéo de l'interface de Google Photos
 
-<iframe src="https://player.vimeo.com/video/373343691" width="832" height="430" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/373343691" width="100%" height="430" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
