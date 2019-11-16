@@ -5,6 +5,8 @@ permalink: /guides/debrancher-usb
 # Retirer en toute sécurité un périphérique de stockage USB
 [Revenir à l'accueil](/)
 
+Les instructions sont identiques pour un disque dur externe. Je n'emploierai que le terme "clé USB" dans ce guide par simplicité.
+
 ## Matériel nécessaire 
 * Un ordinateur
 * Une clé USB

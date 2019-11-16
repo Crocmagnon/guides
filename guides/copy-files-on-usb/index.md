@@ -5,14 +5,14 @@ permalink: /guides/copier-fichiers-cle-usb
 # Copier des fichiers sur une clé USB ou un disque dur externe
 [Revenir à l'accueil](/)
 
+Les instructions sont identiques pour un disque dur externe. Je n'emploierai que le terme "clé USB" dans ce guide par simplicité.
+
 ## Matériel nécessaire 
 * Un ordinateur
 * Une clé USB
 
 ## Instructions
 Une vidéo est disponible en-dessous. Vous pouvez la passer en plein écran pour mieux voir.
-
-Les instructions sont identiques pour un disque dur externe. Je n'emploierai que le terme "clé USB" dans ce guide par simplicité.
 
 1. Brancher la clé USB
 2. Ouvrir une fenêtre avec la clé USB :
