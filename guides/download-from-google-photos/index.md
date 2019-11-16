@@ -1,3 +1,7 @@
+---
+permalink: /guides/telecharger-google-photo
+---
+
 # Télécharger ses photos depuis Google Photos
 [Revenir à l'accueil](/)
 

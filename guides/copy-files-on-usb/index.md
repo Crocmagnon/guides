@@ -1,3 +1,7 @@
+---
+permalink: /guides/copier-fichiers-cle-usb
+---
+
 # Copier des fichiers sur une clé USB ou un disque dur externe
 [Revenir à l'accueil](/)
 
@@ -45,7 +49,7 @@ Les instructions sont identiques pour un disque dur externe. Je n'emploierai que
 
 En fonction du nombre de fichiers sélectionnés et de leur taille, le transfert peut être plus ou moins long.
 
-Lorsque le transfert est fini, penser à [retirer en toute sécurité le périphérique USB](/guides/unplug-usb/index.md)
+Lorsque le transfert est fini, penser à [retirer en toute sécurité le périphérique USB](/guides/debrancher-usb)
 
 ## Vidéo
 

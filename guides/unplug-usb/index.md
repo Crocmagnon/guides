@@ -1,3 +1,7 @@
+---
+permalink: /guides/debrancher-usb
+---
+
 # Retirer en toute sécurité un périphérique de stockage USB
 [Revenir à l'accueil](/)
 
