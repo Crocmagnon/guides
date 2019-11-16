@@ -33,6 +33,7 @@ github_username:  Crocmagnon
 theme: jekyll-theme-cayman
 # plugins:
   # - jekyll-feed
+show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

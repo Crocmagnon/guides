@@ -18,7 +18,7 @@ Une vidéo est disponible en-dessous. Vous pouvez la passer en plein écran pour
 2. Ouvrir une fenêtre avec la clé USB :
     1. Si la fenêtre de l'Explorateur Windows n'apparaît pas automatiquement, ouvrir l'Explorateur Windows :
         * soit via le bouton jaune dans la barre des tâches (en bas)
-        * soit en utilisant le raccourci clavier <kbd>Windows</kbd>+<kbd>E</kbd>. La touche <kbd>Windows</kbd> est celle avec le drapeau, à gauche ou à droite de la barre d'espace en bas du clavier.
+        * soit en utilisant le raccourci clavier <kbd>Windows</kbd> + <kbd>E</kbd>. La touche <kbd>Windows</kbd> est celle avec le drapeau, à gauche ou à droite de la barre d'espace en bas du clavier.
     2. Dans la fenêtre qui apparaît, cliquer sur "Ce PC" dans le menu de gauche.
     3. Double cliquer ensuite sur le "disque" représentant la clé USB, généralement `D:` ou `E:`. Le nom est souvent en rapport avec la marque de la clé USB.
 3. Déplacer la fenêtre sur la moitié droite de l'écran :
@@ -29,7 +29,7 @@ Une vidéo est disponible en-dessous. Vous pouvez la passer en plein écran pour
 4. Ouvrir une fenêtre avec les fichiers à copier :
     1. Ouvrir l'Explorateur Windows :
         * soit via le bouton jaune dans la barre des tâches (en bas)
-        * soit en utilisant le raccourci clavier <kbd>Windows</kbd>+<kbd>E</kbd>. La touche <kbd>Windows</kbd> est celle avec le drapeau, à gauche ou à droite de la barre d'espace en bas du clavier.
+        * soit en utilisant le raccourci clavier <kbd>Windows</kbd> + <kbd>E</kbd>. La touche <kbd>Windows</kbd> est celle avec le drapeau, à gauche ou à droite de la barre d'espace en bas du clavier.
     2. Naviguer jusqu'au dossier contenant les fichiers à copier.
         * Cliquer sur les dossiers dans le menu de gauche ou double-cliquer sur les dossiers dans la fenêtre principale.
 5. Déplacer la nouvelle fenêtre sur la moitié gauche de l'écran :
